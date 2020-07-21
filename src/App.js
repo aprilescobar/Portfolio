@@ -6,7 +6,7 @@ import Projects from './Containers/Projects';
 import Resume from './Components/Resume';
 import Connect from './Components/Connect';
 
-function App() {
+const App = () => {
   return (
     <div>
       <Welcome/>
