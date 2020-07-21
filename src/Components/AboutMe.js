@@ -1,19 +1,32 @@
-import React from 'react';
+import React, {useEffect} from 'react';
+import Aos from 'aos';
+import "aos/dist/aos.css";
 
 const AboutMe = () => {
     const photo = require("../Visuals/Photo.png");
 
+    useEffect(() => {
+        Aos.init({ duration: 1300 });
+      }, []);
+
     return(
         <div id="about-me"> 
-            <div className="standard">
+            <div data-aos="fade-up" className="container">
                 <div className="title">
-                    About Me
+                    <h1>About Me</h1>
                 </div>
-                <div>
-                    <img className="photo" src={photo} alt="April"/>
-                </div>
-                <div className="description">
-                    Hi there, my name is April Escobar. Welcome to my portfolio
+                <div className="row">
+                    <div className="col-sm">
+                        <div id="photo">
+                            <img className="photo" src={photo} alt="April"/>
+                        </div>
+                    </div>
+                    <div className="col-md">
+                        <div className="description">
+                            Hi there, my name is April Escobar. I worked in the fashion idustry for over 9 years.
+                            I've always had an interest in efficiency and organizing.
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

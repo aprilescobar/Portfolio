@@ -3,8 +3,8 @@
 }
 
 #about-me{
-    height: 50vh;
-    background-color: pink;
+    min-height: 50vh;
+    background-color: whitesmoke
 }
 
 #projects{
@@ -18,16 +18,24 @@
 }
 
 #connect{
-    height: 30vh;
+    min-height: 30vh;
     background-color: paleturquoise;
 }
 
 body{
-    background: url(https://wallpapertag.com/wallpaper/full/2/6/0/283037-download-free-marble-background-2048x1347-xiaomi.jpg) no-repeat center center fixed;
+    background: url(https://github.com/aprilfaithdays/Portfolio/blob/master/src/Visuals/Background.png) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 20px;
+    font-weight: 200;
+}
+
+ /* ********* Welcome ********* */
+
+.container{
+    padding-top: 1.5%;
+    padding-bottom: 5%;
 }
 
 .welcome{
@@ -47,13 +55,23 @@ body{
     font-size: 25px;
 }
 
-.standard{
-    height: 50vh;
-    background-color: honeydew;
+.title{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+#photo{
+    text-align: center;
+    margin-bottom: 2%;
+    
 }
 
 .photo{
-    width: 200px;
+    width: 70%;
     height: auto;
 }
 
+.description{
+    margin-top: 10%;
+    /* background-color: lavender; */
+}
