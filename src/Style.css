@@ -1,0 +1,59 @@
+#welcome{
+    height: 100vh;
+}
+
+#about-me{
+    height: 50vh;
+    background-color: pink;
+}
+
+#projects{
+    min-height: 80vh;
+    background-color: gainsboro;
+}
+
+#resume{
+    min-height: 89vh;
+    background-color: pink;
+}
+
+#connect{
+    height: 30vh;
+    background-color: paleturquoise;
+}
+
+body{
+    background: url(https://wallpapertag.com/wallpaper/full/2/6/0/283037-download-free-marble-background-2048x1347-xiaomi.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+}
+
+.welcome{
+    padding-top: 35vh;
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+    font-size: 77px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.subtitle{
+    text-align: center;
+    margin-top: -1.5vh;
+    font-size: 25px;
+}
+
+.standard{
+    height: 50vh;
+    background-color: honeydew;
+}
+
+.photo{
+    width: 200px;
+    height: auto;
+}
+
