@@ -7,8 +7,12 @@ const StyleMe = () => {
 
     const description = () => (
         <div>
-            StyleMe is all about having a library of outfit options. On days when you don't know what to wear, 
-            you can simply log into your StyleMe account, browse through your outfits library, and wear the look you're going for!
+            <h3>
+                StyleMe
+            </h3>
+            On days when you don't know what to wear, you can log into your StyleMe 
+            account, browse through your outfits library, and wear the look you're going 
+            for!
 
             <br/><br/>
             <LiveDemoBtn url='https://style-me.netlify.app/' />

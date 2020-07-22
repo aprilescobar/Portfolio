@@ -1,5 +1,6 @@
 import React from 'react';
-import KCP from '../Experience/KCP'
+import KennethCole from '../Experience/KennethCole'
+import ClubMonaco from '../Experience/ClubMonaco';
 
 const Resume = () => {
     return(
@@ -7,8 +8,10 @@ const Resume = () => {
             <div data-aos="fade-up" className="container">
                 <div className="title">
                     <h1>Resume</h1>
+                    
                 </div>
-                    <div data-aos="fade-up"><KCP/></div>
+                    <div data-aos="fade-up"><KennethCole/></div>
+                    <div data-aos="fade-up"><ClubMonaco/></div>
             </div>
         </div>
     )

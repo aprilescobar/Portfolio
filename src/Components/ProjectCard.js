@@ -2,6 +2,8 @@ import React from 'react';
 import ReactPlayer from 'react-player';
 
 const ProjectCard = (props) => {
+
+    
     return(
         <div className="row">
             <div className="col-sm">
@@ -11,7 +13,7 @@ const ProjectCard = (props) => {
                         url={props.url}
                         playing={false} 
                         controls={true} 
-                        light={true} 
+                        light={false} 
                         width='100%'
                         height='100%'
                     />
