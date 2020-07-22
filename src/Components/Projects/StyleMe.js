@@ -1,6 +1,6 @@
 import React from 'react';
-import ProjectCard from '../../ProjectCard';
-import LiveDemoBtn from '../../LiveDemoBtn';
+import ProjectCard from '../ProjectCard';
+import LiveDemoBtn from '../LiveDemoBtn';
 
 const StyleMe = () => {
     const url = 'https://www.youtube.com/watch?v=SUtbYjUhQDU'
