@@ -23,7 +23,7 @@
 }
 
 body{
-    background: url(https://github.com/aprilfaithdays/Portfolio/blob/master/src/Visuals/Background.png) no-repeat center center fixed;
+    background: url(https://raw.githubusercontent.com/aprilfaithdays/Portfolio/master/src/Visuals/Background.png) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
     font-family: 'Alegreya Sans', sans-serif;
