@@ -1,29 +1,30 @@
 #welcome{
     height: 100vh;
+    padding-top: 30vh;
 }
 
 #about-me{
-    min-height: 50vh;
-    background-color: whitesmoke
+    min-height: 70vh;
+    background-color: rgba(253, 228, 234, 0.966)
 }
 
 #projects{
     min-height: 80vh;
-    background-color: gainsboro;
+    background-color: rgb(252, 250, 243, 0.966);
 }
 
 #resume{
     min-height: 89vh;
-    background-color: pink;
+    background-color: rgb(253, 228, 234, 0.966)
 }
 
 #connect{
     min-height: 30vh;
-    background-color: paleturquoise;
+    background-color: rgba(233, 233, 233, 0.966);
 }
 
 body{
-    background: url(https://raw.githubusercontent.com/aprilfaithdays/Portfolio/master/src/Visuals/Background.png) no-repeat center center fixed;
+    background: url(https://raw.githubusercontent.com/aprilfaithdays/Portfolio/master/src/Visuals/bg.png) no-repeat center center fixed;
     background-size: cover;
     height: 100%;
     font-family: 'Alegreya Sans', sans-serif;
@@ -38,26 +39,43 @@ body{
     padding-bottom: 5%;
 }
 
-.welcome{
-    padding-top: 35vh;
+.title{
     text-align: center;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    margin-bottom: 3%;
+    border-bottom-style: solid;
+    border-width: thin;
+    border-color: rgba(56, 55, 55, 0.568);
+}
+
+.welcome{
+    width: fit-content;
+    font-size: 40px;
+    background-color: rgba(255, 252, 247, 0.973);
+    border-radius: 25px;
+    box-shadow: 0px 12px 18px -6px rgba(0, 0, 0, 0.3);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 65px;
+    padding-right: 65px;
 }
 
 .name{
     text-align: center;
-    font-size: 77px;
+    font-size: 80px;
     font-family: 'Dancing Script', cursive;
+    padding-top: 15px;
+    border-bottom-style: solid;
+    border-width: thin;
+    border-color: rgba(56, 55, 55, 0.568);
 }
 
 .subtitle{
     text-align: center;
-    margin-top: -1.5vh;
+    margin-top: 1.5vh;
     font-size: 25px;
-}
-
-.title{
-    text-align: center;
-    margin-bottom: 3%;
+    padding-bottom: 25px;
 }
 
 #photo{
@@ -67,11 +85,42 @@ body{
 }
 
 .photo{
-    width: 70%;
+    width: 90%;
     height: auto;
 }
 
 .description{
-    margin-top: 10%;
-    /* background-color: lavender; */
+    margin-top: 8%;
+}
+
+.player-wrapper {
+position: relative;
+padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+box-shadow: 0px 12px 18px -6px rgba(0, 0, 0, 0.3);
+
+}
+
+.react-player {
+position: absolute;
+top: 0;
+left: 0;
+}
+
+.project{
+    margin-top: 5vh;
+}
+
+.center{
+    text-align: center;
+}
+
+.company{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.logo{
+    width: 70%;
+    height: auto;
+    margin-bottom: 3%;
 }
