@@ -1,6 +1,6 @@
 import React from 'react';
-import ProjectCard from '../Components/ProjectCard';
-import LiveDemoBtn from '../Components/LiveDemoBtn';
+import ProjectCard from '../../ProjectCard';
+import LiveDemoBtn from '../../LiveDemoBtn';
 
 const StyleMe = () => {
     const url = 'https://www.youtube.com/watch?v=SUtbYjUhQDU'
@@ -21,7 +21,7 @@ const StyleMe = () => {
     )
 
     return(
-        <div className="project">
+        <div className="des-card">
             <ProjectCard url={url} desc={description()}/>
         </div>
     )

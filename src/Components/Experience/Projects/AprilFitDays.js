@@ -1,6 +1,6 @@
 import React from 'react';
-import ProjectCard from '../Components/ProjectCard';
-import LiveDemoBtn from '../Components/LiveDemoBtn';
+import ProjectCard from '../../ProjectCard';
+import LiveDemoBtn from '../../LiveDemoBtn';
 
 
 const AprilFitDays = () => {
@@ -17,7 +17,7 @@ const AprilFitDays = () => {
     )
 
     return(
-        <div className="project">
+        <div className="des-card">
             <ProjectCard url={url} desc={description()}/>
         </div>
     )

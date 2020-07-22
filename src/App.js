@@ -1,10 +1,10 @@
 import React, {useEffect} from 'react';
 import './Style.css';
-import Welcome from './Components/Welcome';
-import AboutMe from './Components/AboutMe';
+import Welcome from './Containers/Welcome';
+import AboutMe from './Containers/AboutMe';
 import Projects from './Containers/Projects';
-import Resume from './Components/Resume';
-import Connect from './Components/Connect';
+import Resume from './Containers/Resume';
+import Connect from './Containers/Connect';
 import Aos from 'aos';
 import "aos/dist/aos.css";
 import Navbar from './Components/Navbar';

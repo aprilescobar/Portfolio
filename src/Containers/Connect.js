@@ -8,8 +8,8 @@ const Connect = () => {
                     <h1>Let's Connect!</h1>
                 </div>
                 <div className="center">
-                    <a href="https://www.linkedin.com/in/april-escobar/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | {' '}
-                    <a href="https://github.com/aprilfaithdays" target="_blank" rel="noopener noreferrer">Github</a>
+                    <a className="color" href="https://www.linkedin.com/in/april-escobar/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | {' '}
+                    <a className="color" href="https://github.com/aprilfaithdays" target="_blank" rel="noopener noreferrer">Github</a>
                 </div>
             </div>
        </div>
