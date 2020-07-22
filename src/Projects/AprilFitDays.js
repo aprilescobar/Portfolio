@@ -8,9 +8,9 @@ const AprilFitDays = () => {
 
     const description = () => (
         <div>
-            AprilFitDays was inspired by this pandemic. I don't know about you, but I love doing group fitness workouts! 
-            The main reason being, I don't need to think about what moves to do! In group fitness workouts, you just show up, 
-            focus on your form and get a good sweat in!
+            <h3>AprilFitDays</h3>
+                Workout from the comfort of your home! AprilFitDays is a web application
+                that
             <br/><br/>
             <LiveDemoBtn url='https://aprilfitdays.netlify.app/' />
         </div>

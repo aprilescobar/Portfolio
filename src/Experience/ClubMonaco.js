@@ -1,13 +1,14 @@
 import React from 'react';
 import ExperienceCard from '../Components/ExperienceCard';
 
+const ClubMonaco = () => {
+    const url = 'https://i.pinimg.com/originals/a5/8f/d6/a58fd6c35b02af42fb70f3c907ece8bd.png'
 
-const KCP = () => {
     const company = () => (
         <div>
-            <img className="logo" src="https://m.media-amazon.com/images/S/aplus-media/vc/1ad00ee6-b61f-45e3-a37f-471292cb80ec._CR264,0,970,300_PT0_SX970__.jpg" alt="kcp"/>
-            <h4>Assistant Production Manager</h4>
-            April 2017 - June 2019
+            <img className="logo" src={url} alt="ClubMonaco"/>
+            <h4>Men's Key Holder</h4>
+            <h5>Sep 2015 - Dec 2016</h5>
         </div>
     )
 
@@ -27,4 +28,4 @@ const KCP = () => {
     )
 }
 
-export default KCP
+export default ClubMonaco
