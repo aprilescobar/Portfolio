@@ -1,6 +1,6 @@
 #welcome{
     height: 100vh;
-    padding-top: 30vh;
+    padding-top: 28vh;
 }
 
 #about-me{
@@ -55,6 +55,22 @@ h4{
 
 h5{
     font-size: 17px;
+}
+
+.navi{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 252, 247, 0.973);
+}
+
+.color{
+    color: black;
+    font-weight: 600;
+}
+
+.color:hover{
+    color: rgb(240, 114, 135);
+    font-weight: 600;
 }
 
 .title{

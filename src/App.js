@@ -7,6 +7,7 @@ import Resume from './Components/Resume';
 import Connect from './Components/Connect';
 import Aos from 'aos';
 import "aos/dist/aos.css";
+import Navbar from './Components/Navbar';
 
 const App = () => {
 
@@ -16,6 +17,7 @@ const App = () => {
 
   return (
     <div>
+      <Navbar/>
       <Welcome/>
       <AboutMe/>
       <Projects/>
