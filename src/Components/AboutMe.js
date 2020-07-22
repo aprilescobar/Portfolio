@@ -1,13 +1,7 @@
-import React, {useEffect} from 'react';
-import Aos from 'aos';
-import "aos/dist/aos.css";
+import React from 'react';
 
 const AboutMe = () => {
     const photo = require("../Visuals/Photo.png");
-
-    useEffect(() => {
-        Aos.init({ duration: 1300 });
-      }, []);
 
     return(
         <div id="about-me"> 
@@ -21,7 +15,7 @@ const AboutMe = () => {
                             <img className="photo" src={photo} alt="April"/>
                         </div>
                     </div>
-                    <div className="col-md">
+                    <div className="col-sm">
                         <div className="description">
                             Hi there, my name is April Escobar. I worked in the fashion idustry for over 9 years.
                             I've always had an interest in efficiency and organizing.
