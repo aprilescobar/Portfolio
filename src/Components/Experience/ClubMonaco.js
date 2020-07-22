@@ -1,5 +1,5 @@
 import React from 'react';
-import ExperienceCard from '../Components/ExperienceCard';
+import ExperienceCard from '../ExperienceCard';
 
 const ClubMonaco = () => {
     const url = 'https://i.pinimg.com/originals/a5/8f/d6/a58fd6c35b02af42fb70f3c907ece8bd.png'
@@ -7,7 +7,7 @@ const ClubMonaco = () => {
     const company = () => (
         <div>
             <img className="logo" src={url} alt="ClubMonaco"/>
-            <h4>Men's Key Holder</h4>
+            <h4>Men's Keyholder</h4>
             <h5>Sep 2015 - Dec 2016</h5>
         </div>
     )
@@ -22,7 +22,7 @@ const ClubMonaco = () => {
     )
 
     return(
-        <div className="project">
+        <div className="des-card">
             <ExperienceCard company={company()} desc={description()}/>
         </div>
     )

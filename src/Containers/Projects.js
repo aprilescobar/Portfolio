@@ -1,6 +1,6 @@
 import React from 'react';
-import StyleMe from '../Projects/StyleMe';
-import AprilFitDays from '../Projects/AprilFitDays';
+import StyleMe from '../Components/Projects/StyleMe';
+import AprilFitDays from '../Components/Projects/AprilFitDays';
 
 const Projects = () => {
     return(

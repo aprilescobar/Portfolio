@@ -31,13 +31,6 @@ body{
     font-size: 17px;
 }
 
- /* ********* Welcome ********* */
-
-.container{
-    padding-top: 1.5%;
-    padding-bottom: 5%;
-}
-
 h1{
     font-weight: 700;
 }
@@ -57,10 +50,9 @@ h5{
     font-size: 17px;
 }
 
-.navi{
-    display: flex;
-    justify-content: center;
-    background-color: rgba(255, 252, 247, 0.973);
+.container{
+    padding-top: 1.5%;
+    padding-bottom: 5%;
 }
 
 .color{
@@ -73,15 +65,38 @@ h5{
     font-weight: 600;
 }
 
+.center{
+    text-align: center;
+}
+
 .title{
     text-align: center;
-    padding-top: 1vh;
+    padding-top:4vh;
     padding-bottom: 1vh;
     margin-bottom: 3%;
     border-bottom-style: solid;
     border-width: thin;
     border-color: rgba(56, 55, 55, 0.568);
 }
+
+.description{
+    margin-top: 8%;
+}
+
+.des-card{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+ /* ******************************* Navbar ******************************* */
+
+.navi{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 252, 247, 0.973);
+}
+
+ /* ******************************* Welcome ******************************* */
 
 .welcome{
     width: fit-content;
@@ -112,10 +127,11 @@ h5{
     padding-bottom: 25px;
 }
 
+ /* ******************************* About Me ******************************* */
+
 #photo{
     text-align: center;
     margin-bottom: 2%;
-    
 }
 
 .photo{
@@ -123,9 +139,7 @@ h5{
     height: auto;
 }
 
-.description{
-    margin-top: 8%;
-}
+ /* ******************************* Projects ******************************* */
 
 .player-wrapper {
 position: relative;
@@ -139,14 +153,7 @@ top: 0;
 left: 0;
 }
 
-.project{
-    margin-top: 5vh;
-    margin-bottom: 5vh;
-}
-
-.center{
-    text-align: center;
-}
+ /* ******************************* Resume ******************************* */
 
 .company{
     text-align: center;
@@ -159,3 +166,6 @@ left: 0;
     margin-bottom: 3%;
     object-fit: cover;
 }
+
+ /* ******************************* Connect ******************************* */
+
