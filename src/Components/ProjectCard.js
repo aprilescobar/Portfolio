@@ -20,7 +20,7 @@ const ProjectCard = (props) => {
                 </div>
             </div>
             <div className="col-sm">
-                <div className="description">
+                <div>
                     {props.desc}
                 </div>
             </div>

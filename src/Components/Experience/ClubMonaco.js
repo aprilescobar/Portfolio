@@ -14,10 +14,9 @@ const ClubMonaco = () => {
 
     const description = () => (
         <ul>
-            <li>Managed production for Kenneth Cole New York Ladies and Reaction Ladies ladies footwear</li>
-            <li>Heavily involved in system operations. Created and maintained accurate information for internal and external use that saved the company from additional expenses.</li>
-            <li>Communicated daily with cross-functional teams and factories overseas regarding costs, delivery and product info that kept everyone on the same page with the products in multiple seasons at various stages.</li>
-            <li>Managed multiple documents to establish a more efficient process in placing factory purchase orders, ultimately led to meeting and/or exceeding margin goals consistently.</li>        
+            <li>Opened and closed the store, communicated opportunities of improvement, and documented daily sales report</li>
+            <li>Delegated the men’s team to execute tasks on sight by prioritizing, leading by example and through teamwork</li>
+            <li>Trained new hires with product knowledge, clienteling, POS operations, visual standards, and stock procedures</li>        
         </ul>
     )
 
