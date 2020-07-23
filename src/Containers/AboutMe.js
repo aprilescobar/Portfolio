@@ -17,8 +17,16 @@ const AboutMe = () => {
                     </div>
                     <div className="col-sm">
                         <div className="description">
-                            Hi there, my name is April Escobar. I worked in the fashion idustry for over 9 years.
-                            I've always had an interest in efficiency and organizing.
+                            <h3>Full-Stack Software Engineer</h3>
+                            <p>
+                            I have a background in fashion design and retail management that offers a unique and 
+                            specialized perspective for developing and designing visually aesthetic 
+                            websites focused on product presentations and rich user experiences.
+                            <br/><br/>
+                            I am open to opportunities as a recent graduate from the Flatiron School, a 15-week immersive coding bootcamp. 
+                            <br/><br/>
+                            
+                            </p>
                         </div>
                     </div>
                 </div>

@@ -9,9 +9,16 @@ const AprilFitDays = () => {
     const description = () => (
         <div>
             <h3>AprilFitDays</h3>
-                Workout from the comfort of your home! AprilFitDays is a web application
-                that
+            AprilFitDays was inspired by this pandemic. I don't know about you, 
+            but I love doign group fitness workouts!
             <br/><br/>
+            Unfortunately with the pandemic and social distancing, it's a bit of 
+            a challenge to hold group fitness sessions. Hence the creation of this app! 
+            AprilFitDays is a library of follow-along videos that provides you with 
+            a log of your completed workouts.
+            <br/><br/>
+            You also have the abilty to become a creator and contribute to the community by uploading your own follow-along videos!
+            <br/>
             <LiveDemoBtn url='https://aprilfitdays.netlify.app/' />
         </div>
     )
