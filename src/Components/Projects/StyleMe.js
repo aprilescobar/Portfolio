@@ -10,14 +10,13 @@ const StyleMe = () => {
             <h4>
                 StyleMe
             </h4>
-            StyleMe♡ is all about having a library of outfit options. On days when you don't know what to wear, 
-            you can simply log into your StyleMe♡ account, browse through your outfits library, and wear the look you're going for!
-            <br/><br/>
-            For added inspiration, you have the ability to browse other outfits created by other users. You can like and comment 
-            any of the outfits you see! Once you like an outfit, it's saved in your liked library for you to reference later on! 
-            Or you know... unless the user decided to delete that outfit... then it'll disappear from your liked library too.
-
-            <br/>
+            <ul>
+                <li>Built a UX driven interactive web application where users can catalogue and create personalized outfits</li>
+                <li>Created a unique and usable UI offering enabling users to connect with community via interactive features</li>
+                <li>Implemented custom JSON and RESTful API routers written in Ruby on Rails with PostgreSQL hosted on Heroku</li>
+                <li>Executed good coding practices by producing clean, reusable and scalable algorithms in ES6, React.js framework</li>
+                <li>Optimized speed by debugging memory leaks, developing reusable components and utilizing Hooks for data flow</li>
+            </ul>
             <LiveDemoBtn url='https://style-me.netlify.app/' />
         
         </div>
