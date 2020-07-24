@@ -6,7 +6,9 @@ const Resume = () => {
     return(
         <div id="resume">
             <div data-aos="fade-up" className="container">
-                <h2>Resume</h2><br/>
+                <div className="title">
+                    <h2>Resume</h2><br/>
+                </div>
                     <p className="bullets center">
                     My background in fashion design and retail management offers a unique and specialized perspective for developing
                     and designing visually aesthetic websites focused on product presentations and 

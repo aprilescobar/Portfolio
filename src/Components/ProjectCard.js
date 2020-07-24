@@ -13,7 +13,7 @@ const ProjectCard = (props) => {
                         url={props.url}
                         playing={false} 
                         controls={true} 
-                        light={false} 
+                        light={true} 
                         width='100%'
                         height='100%'
                     />
