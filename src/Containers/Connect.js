@@ -5,7 +5,7 @@ const Connect = () => {
        <div id="connect">
             <div data-aos="fade-right" className="container">
                 <div className="title">
-                    <h1>Let's Connect!</h1>
+                    <h2>Let's Connect!</h2>
                 </div>
                 <div className="center">
                     <a className="color" href="mailto: aprilfaith.e@gmail.com">Email</a> | {' '}

@@ -8,7 +8,7 @@ const AprilFitDays = () => {
 
     const description = () => (
         <div>
-            <h3>AprilFitDays</h3>
+            <h4>AprilFitDays</h4>
             AprilFitDays was inspired by this pandemic. I don't know about you, 
             but I love doign group fitness workouts!
             <br/><br/>

@@ -1,16 +1,20 @@
 import React from 'react';
-import KennethCole from '../Components/Experience/KennethCole'
-import ClubMonaco from '../Components/Experience/ClubMonaco';
+import Skills from '../Components/Skills';
+import Experience from '../Components/Experience';
 
 const Resume = () => {
     return(
         <div id="resume">
             <div data-aos="fade-up" className="container">
-                <div className="title">
-                    <h1>Resume</h1>
-                </div>
-                    <div data-aos="fade-up"><KennethCole/></div>
-                    <div data-aos="fade-up"><ClubMonaco/></div>
+                <h2>Resume</h2><br/>
+                    <p className="bullets center">
+                    My background in fashion design and retail management offers a unique and specialized perspective for developing
+                    and designing visually aesthetic websites focused on product presentations and 
+                    rich user experiences. 
+                    <br/>
+                    </p>
+                <div data-aos="fade-up"><Skills/></div>
+                <div data-aos="fade-up"><Experience/></div>
             </div>
         </div>
     )

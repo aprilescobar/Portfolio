@@ -7,9 +7,9 @@ const StyleMe = () => {
 
     const description = () => (
         <div>
-            <h3>
+            <h4>
                 StyleMe
-            </h3>
+            </h4>
             StyleMe♡ is all about having a library of outfit options. On days when you don't know what to wear, 
             you can simply log into your StyleMe♡ account, browse through your outfits library, and wear the look you're going for!
             <br/><br/>

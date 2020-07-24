@@ -6,7 +6,7 @@ const ProjectCard = (props) => {
     
     return(
         <div className="row">
-            <div className="col-sm">
+            <div className="col-sm-4">
                 <div className='player-wrapper'>
                     <ReactPlayer 
                         className='react-player'
@@ -19,8 +19,8 @@ const ProjectCard = (props) => {
                     />
                 </div>
             </div>
-            <div className="col-sm">
-                <div>
+            <div className="col-sm-8">
+                <div className="desc-card">
                     {props.desc}
                 </div>
             </div>

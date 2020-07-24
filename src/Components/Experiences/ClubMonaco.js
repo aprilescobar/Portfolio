@@ -7,8 +7,9 @@ const ClubMonaco = () => {
     const company = () => (
         <div>
             <img className="logo" src={url} alt="ClubMonaco"/>
-            <h4>Men's Keyholder</h4>
-            <h5>Sep 2015 - Dec 2016</h5>
+            {/* <h4>Club Monaco</h4> */}
+            <h5>Men's Keyholder</h5>
+            <p>Sep 2015 - Dec 2016</p>
         </div>
     )
 
