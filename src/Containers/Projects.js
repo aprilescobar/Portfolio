@@ -7,7 +7,7 @@ const Projects = () => {
        <div id="projects">
             <div data-aos="fade-up" className="container">
                 <div className="title">
-                    <h1>Projects</h1>
+                    <h2>Projects</h2>
                 </div>
                 <div data-aos="fade-up"><StyleMe /></div>
                 <div data-aos="fade-up"><AprilFitDays /></div>
