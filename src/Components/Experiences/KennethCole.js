@@ -3,16 +3,10 @@ import ExperienceCard from '../ExperienceCard';
 
 
 const KennethCole = () => {
-    const url = 'https://pbs.twimg.com/profile_images/741381421030199296/hghjIMZK_400x400.jpg'
-
-    const company = () => (
-        <div>
-            <img className="logo" src={url} alt="KennethCole"/>
-            {/* <h4>Kenneth Cole</h4> */}
-            <h5>Assistant Production Manager</h5>
-            <p>Apr 2017 - Jun 2019</p>
-        </div>
-    )
+    const url = 'https://pbs.twimg.com/profile_images/741381421030199296/hghjIMZK_400x400.jpg';
+    const company = 'Kenneth Cole';
+    const position = 'Assistant Production Manager';
+    const dates = 'Apr 2017 - Jun 2019'
 
     const description = () => (
         <ul>
@@ -24,7 +18,13 @@ const KennethCole = () => {
 
     return(
         <div className="des-card">
-            <ExperienceCard company={company()} desc={description()}/>
+            <ExperienceCard 
+                url={url}
+                company={company} 
+                position={position}
+                dates={dates}
+                desc={description()}
+                />
         </div>
     )
 }
