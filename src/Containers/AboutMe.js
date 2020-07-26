@@ -17,15 +17,17 @@ const AboutMe = () => {
                     </div>
                     <div className="col-sm-8">
                         <div className="description">
-                            <h4>Full-Stack Software Engineer</h4>
                             <p>
-                            I have a background in fashion design and retail management that offers a unique and 
-                            specialized perspective for developing and designing visually aesthetic 
-                            websites focused on product presentations and rich user experiences.
-                            <br/><br/>
-                            I am open to opportunities as a recent graduate from the Flatiron School, a 15-week immersive coding bootcamp. 
-                            <br/><br/>
-                            
+                                Hi there, my name is April and I'm a full-stack software engineer graduate from the Flatiron School.
+                                <br/><br/>
+                                I worked in the fashion industry for over nine years. I started out in retail as a sales associate, moved <br/>
+                                onto as a lead in POS systems, and finally into retail management as a keyholder. At the same time, I <br/>
+                                took on internship opportunities that eventually led me to a corporate opposition in production <br/>
+                                management.
+                                <br/><br/>
+                                I enjoy being a software engineer because I get to build effective and efficient systems that basically <br/>
+                                make life easier. I also love being able to express my creative side and design visually aesthetic font-<br/>
+                                end development.
                             </p>
                         </div>
                     </div>

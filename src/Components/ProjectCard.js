@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactPlayer from 'react-player';
+import LiveDemoBtn from './LiveDemoBtn';
 
-const ProjectCard = (props) => {
-
-    
+const ProjectCard = (props) => {    
     return(
         <div className="row">
             <div className="col-sm-4">
@@ -19,9 +18,11 @@ const ProjectCard = (props) => {
                     />
                 </div>
             </div>
-            <div className="col-sm-8">
-                <div className="desc-card">
-                    {props.desc}
+                <div className="col-sm-8">
+                    <div className="desc-card">
+                        <h4>{props.name}</h4>
+                        {props.desc}
+                        <LiveDemoBtn url={props.live} />
                 </div>
             </div>
         </div>
