@@ -3,7 +3,8 @@ import React from 'react';
 const Contact = () => {
     return(
        <div id="contact">
-            <div data-aos="fade-right" className="container">
+            {/* <div data-aos="fade-right" className="container"> */}
+            <div className="container">
                 <div className="center">
                     <h3>Let's Connect!</h3>
                     <a className="color" href="mailto: aprilfaith.e@gmail.com">Email</a> | {' '}
