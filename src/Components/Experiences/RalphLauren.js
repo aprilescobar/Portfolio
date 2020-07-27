@@ -9,9 +9,9 @@ const RalphLauren = () => {
 
     const description = () => (
         <ul>
-            <li></li>
-            <li></li>        
-            <li></li>        
+            <li>Strengthened production negotiations by developing a tool that calculated necessary fabric commitment dates</li>
+            <li>Enriched time-management skills by prioritizing projects accordingly based on level of importance and deadlines</li>        
+            <li>Attained global business fundamentals by presenting an analysis of business patterns by country of manufacturer</li>        
         </ul>
     )
 

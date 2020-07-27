@@ -20,7 +20,14 @@ const ProjectCard = (props) => {
             </div>
                 <div className="col-sm-8">
                     <div className="desc-card">
-                        <h4>{props.name}</h4>
+                    <div className="row">
+                        <div className="col">
+                            <h4>{props.name}</h4>
+                        </div>
+                        <div className="col date">
+                            <p>{props.dates}</p>
+                        </div>
+                    </div>
                         {props.desc}
                         <LiveDemoBtn url={props.live} />
                 </div>

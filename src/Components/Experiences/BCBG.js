@@ -9,9 +9,9 @@ const BCBG = () => {
 
     const description = () => (
         <ul>
-            <li></li>
-            <li></li>        
-            <li></li>        
+            <li>Developed elevated design concepts through exceptional product knowledge, marketing and branding workshops</li>
+            <li>Attained vital and effective communication skills through high-volume, fast-paced and intimate team environments</li>        
+            <li>Improved leadership skills by training new-hires, including management level and digesting constructive feedback </li>        
         </ul>
     )
 

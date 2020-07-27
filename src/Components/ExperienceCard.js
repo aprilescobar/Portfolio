@@ -9,8 +9,14 @@ const ProjectCard = (props) => {
                 </div>
             </div>
             <div className="col-sm-8 bullets">
-                <h5>{props.position}</h5>
-                <p>{props.dates}</p>
+                <div className="row">
+                    <div className="col">
+                        <h5>{props.position}</h5>
+                    </div>
+                    <div className="col date">
+                        <p>{props.dates}</p>
+                    </div>
+                </div>
                 {props.desc}
                 <br/>
             </div>
