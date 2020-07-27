@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Connect = () => {
+const Contact = () => {
     return(
-       <div id="connect">
+       <div id="contact">
             <div data-aos="fade-right" className="container">
                 <div className="title">
-                    <h2>Let's Connect!</h2>
+                    <h2>Contact Me</h2>
                 </div>
                 <div className="center">
                     <a className="color" href="mailto: aprilfaith.e@gmail.com">Email</a> | {' '}
@@ -17,4 +17,4 @@ const Connect = () => {
     )
 }
 
-export default Connect
+export default Contact

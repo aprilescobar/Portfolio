@@ -1,7 +1,6 @@
 import React from 'react';
 import ExperienceCard from '../ExperienceCard';
 
-
 const BCBG = () => {
     const url = 'https://baldwineyeclinic.com/wp-content/uploads/2016/08/bcbg-maxazria-logo.png';
     const company = 'Robert Graham';
@@ -10,7 +9,6 @@ const BCBG = () => {
 
     const description = () => (
         <ul>
-            {/* <li>Opened and closed the store, communicated opportunities of improvement, and documented daily sales report</li> */}
             <li></li>
             <li></li>        
             <li></li>        

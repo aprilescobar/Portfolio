@@ -20,14 +20,15 @@ const AboutMe = () => {
                             <p>
                                 Hi there, my name is April and I'm a full-stack software engineer graduate from the Flatiron School.
                                 <br/><br/>
-                                I worked in the fashion industry for over nine years. I started out in retail as a sales associate, moved <br/>
-                                onto as a lead in POS systems, and finally into retail management as a keyholder. At the same time, I <br/>
-                                took on internship opportunities that eventually led me to a corporate opposition in production <br/>
-                                management.
+                                I worked in the fashion industry for over nine years. I started out in retail as a sales associate and <br/>
+                                graduadely made my way into retail management as a keyholder. At the same time, I took on internship<br/>
+                                opportunities that eventually led me to a corporate opposition in production management.
                                 <br/><br/>
                                 I enjoy being a software engineer because I get to build effective and efficient systems that basically <br/>
                                 make life easier. I also love being able to express my creative side and design visually aesthetic font-<br/>
                                 end development.
+                                <br/><br/>
+                                I'm open to explore opportunities and willing to relocating. Let's <a className="color" href="#contact">connect</a>!
                             </p>
                         </div>
                     </div>
