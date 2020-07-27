@@ -5,6 +5,7 @@ const StyleMe = () => {
     const url = 'https://www.youtube.com/watch?v=SUtbYjUhQDU'
     const live = 'https://style-me.netlify.app/'
     const name = 'StyleMe'
+    const dates = 'May 2020 - Jul 2020'
 
     const description = () => (
         <ul>
@@ -22,6 +23,7 @@ const StyleMe = () => {
                 url={url} 
                 name={name}
                 live={live}
+                dates={dates}
                 desc={description()}
             />
         </div>

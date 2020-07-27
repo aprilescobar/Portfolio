@@ -6,6 +6,7 @@ const AprilFitDays = () => {
     const url = 'https://www.youtube.com/watch?v=d42EvR8DZdM'
     const live = 'https://aprilfitdays.netlify.app/'
     const name = 'AprilFitDays'
+    const dates = 'Apr 2020 - May 2020'
 
     const description = () => (
         <ul>
@@ -23,6 +24,7 @@ const AprilFitDays = () => {
                 url={url} 
                 name={name}
                 live={live}
+                dates={dates}
                 desc={description()}
             />
         </div>

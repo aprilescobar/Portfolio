@@ -1,6 +1,7 @@
 import React from 'react';
 import Skills from '../Components/Skills';
-import Experience from './Experience';
+import Experience from '../Components/Experience';
+import Education from '../Components/Education';
 
 const Resume = () => {
     return(
@@ -19,6 +20,7 @@ const Resume = () => {
                 </div>
                 <div data-aos="fade-up"><Skills/></div>
                 <div data-aos="fade-up"><Experience/></div>
+                <div data-aos="fade-up"><Education/></div>
             </div>
         </div>
     )

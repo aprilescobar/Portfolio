@@ -8,6 +8,7 @@ import Connect from './Containers/Connect';
 import Aos from 'aos';
 import "aos/dist/aos.css";
 import Navbar from './Components/Navbar';
+import Footer from './Components/Footer';
 
 const App = () => {
 
@@ -23,6 +24,7 @@ const App = () => {
       <Projects/>
       <Resume/>
       <Connect/>
+      <Footer/>
     </div>
   );
 }

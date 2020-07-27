@@ -24,6 +24,12 @@
     background-color: rgba(233, 233, 233);
 }
 
+#footer{
+    min-height: 4vh;
+    background-color: rgba(233, 233, 233);
+    text-align: center;
+}
+
 body{
     background: url(https://raw.githubusercontent.com/aprilfaithdays/Portfolio/master/src/Visuals/bg.png) no-repeat center center fixed;
     background-size: cover;
@@ -89,6 +95,11 @@ h5{
     justify-content: center;
 }
 
+.date{
+    text-align: right;
+    font-weight: 600;
+}
+
  /* ******************************* Navbar ******************************* */
 
 .navi{
@@ -148,7 +159,7 @@ h5{
 
 
 .description{
-    margin-top: 6%;
+    margin-top: 8%;
 }
 
  /* ******************************* Projects ******************************* */
