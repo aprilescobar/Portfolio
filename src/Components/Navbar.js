@@ -14,7 +14,7 @@ const Navbar = () => {
                     <a className="nav-link color" href="#resume">Resume</a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link color" href="#connect">Connect</a>
+                    <a className="nav-link color" href="#contact">Contact</a>
                 </li>
             </ul>
         </div>

@@ -1,7 +1,6 @@
 import React from 'react';
 import ExperienceCard from '../ExperienceCard';
 
-
 const RalphLauren = () => {
     const url = require("../../Visuals/RL-logo.png");
     const company = 'Ralph Lauren';
@@ -10,7 +9,6 @@ const RalphLauren = () => {
 
     const description = () => (
         <ul>
-            {/* <li>Opened and closed the store, communicated opportunities of improvement, and documented daily sales report</li> */}
             <li></li>
             <li></li>        
             <li></li>        
