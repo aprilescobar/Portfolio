@@ -6,12 +6,13 @@ const ProjectCard = (props) => {
             <div className="col-sm-4">
                 <div className="company">
                     <img className="logo" src={props.url} alt={props.company}/>
-                    <p>{props.dates}</p>
                 </div>
             </div>
             <div className="col-sm-8 bullets">
                 <h5>{props.position}</h5>
+                <p>{props.dates}</p>
                 {props.desc}
+                <br/>
             </div>
         </div>
     )
