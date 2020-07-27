@@ -1,6 +1,6 @@
 import React from 'react';
 import Skills from '../Components/Skills';
-import Experience from '../Components/Experience';
+import Experience from './Experience';
 
 const Resume = () => {
     return(
@@ -10,7 +10,7 @@ const Resume = () => {
                     <h2>Resume</h2><br/>
                 </div>
                 <div className="bullets center">
-                    <h5>Full-Stack Software Engineer</h5>
+                    <h4>Full-Stack Software Engineer</h4>
                     <p >
                         My background in fashion design and retail management offers a unique and specialized perspective for developing <br/>
                         and designing visually aesthetic websites focused on product presentations and rich user experiences. 

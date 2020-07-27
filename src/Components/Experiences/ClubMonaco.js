@@ -2,16 +2,17 @@ import React from 'react';
 import ExperienceCard from '../ExperienceCard';
 
 const ClubMonaco = () => {
-    const url = 'https://i.pinimg.com/originals/a5/8f/d6/a58fd6c35b02af42fb70f3c907ece8bd.png';
+    const url = 'https://assets.simon.com/tenantlogos/1198.png';
     const company = 'Club Monaco';
     const position = 'Keyholder';
     const dates = 'Sept 2015 - Dec 2016'
 
     const description = () => (
         <ul>
-            <li>Opened and closed the store, communicated opportunities of improvement, and documented daily sales report</li>
-            <li>Delegated the men’s team to execute tasks on sight by prioritizing, leading by example and through teamwork</li>
-            <li>Trained new hires with product knowledge, clienteling, POS operations, visual standards, and stock procedures</li>        
+            {/* <li>Opened and closed the store, communicated opportunities of improvement, and documented daily sales report</li> */}
+            <li>Increased sales profits through strong customer loyalty by building and maintaining stable clientele relationships</li>
+            <li>Elevated clientele experience through quality teamwork, leading by example, and preserving the brand’s image</li>        
+            <li>Implemented effective POS etiquette and product knowledge training procedures that maintained low LP numbers</li>        
         </ul>
     )
 
