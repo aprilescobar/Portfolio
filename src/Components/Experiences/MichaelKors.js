@@ -2,8 +2,8 @@ import React from 'react';
 import ExperienceCard from '../ExperienceCard';
 
 const MichaelKors = () => {
-    const url = 'https://lh3.googleusercontent.com/proxy/a0LaUI0yNlWJRwfi4mnv3qVU_6ATahgRWOWHQqhSKxFy37NZGVngwG6Bf7Ns8skvGNjS_ZsKmKIWumQc5RXy6QqL3_9Ic3e1vEVZzHfAWy5hFWoktCw';
-    const company = 'Robert Graham';
+    const url = require("../../Visuals/mk.png");
+    const company = 'Michael Kors';
     const position = 'Sales Assistant';
     const dates = 'Nov 2014 - Sep 2015'
 
