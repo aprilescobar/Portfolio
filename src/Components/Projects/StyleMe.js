@@ -11,8 +11,8 @@ const StyleMe = () => {
         <ul>
             <li>Built a UX driven interactive web application where users can catalogue and create personalized outfits</li>
             <li>Created a unique and usable UI offering enabling users to connect with community via interactive features</li>
+            <li>Executed high quality coding by producing clean, reusable and scalable algorithms in ES6, React.js framework</li>
             <li>Implemented custom JSON and RESTful API routers written in Ruby on Rails with PostgreSQL hosted on Heroku</li>
-            <li>Executed good coding practices by producing clean, reusable and scalable algorithms in ES6, React.js framework</li>
             <li>Optimized speed by debugging memory leaks, developing reusable components and utilizing Hooks for data flow</li>
         </ul>
     )

@@ -10,11 +10,11 @@ const AprilFitDays = () => {
 
     const description = () => (
         <ul>
-            <li>Developed and designed a user experience focused web application that processes and renders real-time data</li>
-            <li>Implemented successful complex features by developing, testing, and debugging object oriented data structures </li>
+            <li>Developed and designed a UX focused web application where users can enjoy follow-along workouts effortlessly</li>
+            <li>Implemented features that filter searches by developing, testing, and debugging object oriented data structures</li>
             <li>Utilized React UI framework with reusable Class and Functional Components built with NPM libraries/packages</li>
+            <li>Engineered efficient algorithms that optimize speed and size capabilities while preserving rich web experiences</li>
             <li>Enhanced speed performance by customizing internal JSON backend APIs to render dynamic frontend interfaces</li>
-            <li>Engineered efficient algorithms that optimize speed and size capabilities and maintain a rich user web experience</li>
         </ul>
     )
 
