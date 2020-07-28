@@ -24,7 +24,7 @@ const AboutMe = () => {
                                 efficient programs that basically make life easier. I love expressing my creative side by
                                 designing visually aesthetic front-end development and smooth user experiences.
                                 <br/><br/>
-                                I'm currently open to explore opportunities and willing to relocating.
+                                I'm currently open to explore opportunities and willing to relocate.
                                 Let's <a className="color" href="#contact">connect</a>!
                             </p>
                         </div>
