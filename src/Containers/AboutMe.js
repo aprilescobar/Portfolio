@@ -22,7 +22,7 @@ const AboutMe = () => {
                                 <br/><br/>
                                 My name is April and I'm a full-stack software engineer. I enjoy building effective and 
                                 efficient programs that basically make life easier. I love expressing my creative side by
-                                designing visually aesthetic font-end development and smooth user experiences.
+                                designing visually aesthetic front-end development and smooth user experiences.
                                 <br/><br/>
                                 I'm currently open to explore opportunities and willing to relocating.
                                 Let's <a className="color" href="#contact">connect</a>!
