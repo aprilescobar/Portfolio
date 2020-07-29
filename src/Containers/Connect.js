@@ -5,6 +5,7 @@ const Contact = () => {
     const linkedIn = require("../Visuals/linkedin.png");
     const github = require("../Visuals/github.webp");
     const medium = require("../Visuals/medium.png");
+    const yt = require("../Visuals/yt.png");
 
     return(
        <div id="contact">
@@ -19,9 +20,12 @@ const Contact = () => {
                     </a>
                     <a className="color" href="https://github.com/aprilfaithdays" target="_blank" rel="noopener noreferrer">
                         <img className="icon" src={github} alt="Github"/>Github
-                    </a>
+                    </a><br/><br/>
                     <a className="color" href="https://medium.com/@aprilfaithdays" target="_blank" rel="noopener noreferrer">
                         <img className="icon" src={medium} alt="Medium"/>Medium
+                    </a>
+                    <a className="color" href="https://www.youtube.com/aprilfaith" target="_blank" rel="noopener noreferrer">
+                        <img className="icon" src={yt} alt="YouTube"/>YouTube
                     </a>
                 </div>
             </div>
