@@ -11,7 +11,7 @@ const Education = () => {
                     <h5>Flatiron School</h5>
                     <p>
                         Jan 2020 - May 2020 <br/><br/>
-                        <b>Full Stack Web Development: JavaScript on React and Ruby on Rails</b>
+                        <b>Full-Stack Web Development: JavaScript on React and Ruby on Rails</b>
                         <br/><br/>
                     </p>
                 </div>
