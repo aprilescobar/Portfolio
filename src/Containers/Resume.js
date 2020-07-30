@@ -13,7 +13,7 @@ const Resume = () => {
                     </h2>
                 </div>
                 <div className="row">
-                    <div className="col-sm">
+                    <div data-aos="fade-up" className="col-sm">
                         <h3>Summary</h3>
                         <p >
                         Full-stack software engineer (JS, React, Ruby on Rails) with an additional 9+ years in fashion and retail management, 
@@ -22,8 +22,8 @@ const Resume = () => {
                         <br/>
                         </p>
                     </div>
-                    <div className="col-sm">
-                        <div data-aos="fade-up"><Skills/></div>
+                    <div data-aos="fade-up" className="col-sm">
+                        <Skills/>
                     </div>
                 </div>
                 <div data-aos="fade-up"><Experience/></div>

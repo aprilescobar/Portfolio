@@ -3,7 +3,7 @@ import React from 'react';
 const Contact = () => {
     const email = require("../Visuals/email.jpg");
     const linkedIn = require("../Visuals/linkedin.png");
-    const github = require("../Visuals/github.webp");
+    const github = require("../Visuals/github.png");
     const medium = require("../Visuals/medium.png");
     const yt = require("../Visuals/yt.png");
 
