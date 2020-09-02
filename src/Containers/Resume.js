@@ -1,17 +1,14 @@
 import React from 'react';
-// import { Document } from 'react-pdf'
 import Skills from '../Components/Skills';
 import Experience from '../Components/Experience';
 import Education from '../Components/Education';
 
 const Resume = () => {
-    // const resume = require('../Visuals/resume.pdf')
     return(
         <div id="resume">
             <div data-aos="fade-up" className="container">
                 <div className="title">
                     <h2>
-                    {/* <Document file={resume} />  Resume */}
                       <a href="https://docs.google.com/document/d/1dgvQrMPBuzkeHKucDGYAu71xB004BYJLAJjA8AahMFw/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img className="pdf" src="https://cdn.worldvectorlogo.com/logos/adobe-pdf-icon.svg" alt="pdf"/></a>{'  '}Resume
                     </h2>
                 </div>

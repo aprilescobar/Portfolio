@@ -7,7 +7,7 @@ const Skills = () => {
             <div>
                 <b>Languages:</b> JavaScript, Ruby, HTML5, CSS <br/>
                 <b>Frameworks:</b> Ruby on Rails<br/>
-                <b>Libraries:</b> React.JS<br/>
+                <b>Libraries:</b> React.Js, Fabric.js<br/>
                 <b>Databases:</b> SQL, PostgreSQL<br/>
                 <b>Authorization:</b> Bcrypt<br/>
                 <b>CI/CD:</b> Git, Heroku, Netlify<br/>
