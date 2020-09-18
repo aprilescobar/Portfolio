@@ -12,7 +12,7 @@ const Contact = () => {
             <div className="container">
                 <div className="center">
                     <h3>Let's Connect!</h3>
-                    <a className="color" href="mailto: aprilfaith.e@gmail.com">
+                    <a className="color" href="mailto: aprilescobar.dev@gmail.com">
                         <img className="icon" src={email} alt="Email"/>Email
                     </a>
                     <a className="color" href="https://www.linkedin.com/in/april-escobar/" target="_blank" rel="noopener noreferrer">
