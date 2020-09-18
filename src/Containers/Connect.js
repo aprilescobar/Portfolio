@@ -18,10 +18,10 @@ const Contact = () => {
                     <a className="color" href="https://www.linkedin.com/in/april-escobar/" target="_blank" rel="noopener noreferrer">
                        <img className="icon" src={linkedIn} alt="LinkedIn"/>LinkedIn
                     </a>
-                    <a className="color" href="https://github.com/aprilfaithdays" target="_blank" rel="noopener noreferrer">
+                    <a className="color" href="https://github.com/aprilescobar" target="_blank" rel="noopener noreferrer">
                         <img className="icon" src={github} alt="Github"/>Github
                     </a><br/><br/>
-                    <a className="color" href="https://medium.com/@aprilfaithdays" target="_blank" rel="noopener noreferrer">
+                    <a className="color" href="https://medium.com/@aprilescobar" target="_blank" rel="noopener noreferrer">
                         <img className="icon" src={medium} alt="Medium"/>Medium
                     </a>
                     <a className="color" href="https://www.youtube.com/aprilfaith" target="_blank" rel="noopener noreferrer">
