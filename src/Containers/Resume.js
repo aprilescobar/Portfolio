@@ -9,7 +9,7 @@ const Resume = () => {
             <div data-aos="fade-up" className="container">
                 <div className="title">
                     <h2>
-                      <a href="https://docs.google.com/document/d/1heZYxisQO0z4SlL6whuRDA5OqpQr7paefT3AmHX8NiE/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img className="pdf" src="https://cdn.worldvectorlogo.com/logos/adobe-pdf-icon.svg" alt="pdf"/></a>{'  '}Resume
+                      <a href="https://drive.google.com/file/d/1oWzTRllwf3BEWLGTi9HLjdOZgwV0jUyK/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img className="pdf" src="https://cdn.worldvectorlogo.com/logos/adobe-pdf-icon.svg" alt="pdf"/></a>{'  '}Resume
                     </h2>
                 </div>
                 <div className="row">
@@ -26,7 +26,7 @@ const Resume = () => {
                         <Skills/>
                     </div>
                 </div>
-                <div data-aos="fade-up"><Experience/></div>
+                <div><Experience/></div>
                 <div data-aos="fade-up"><Education/></div>
             </div>
         </div>

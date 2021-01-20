@@ -1,5 +1,5 @@
 import React from 'react';
-import ExperienceCard from '../ExperienceCard';
+import ExperienceCard from '../../ExperienceCard';
 
 const ClubMonaco = () => {
     const url = 'https://assets.simon.com/tenantlogos/1198.png';
