@@ -27,7 +27,7 @@ const Resume = () => {
                     </div>
                 </div>
                 <div><Experience/></div>
-                <div data-aos="fade-up"><Education/></div>
+                <div><Education/></div>
             </div>
         </div>
     )
