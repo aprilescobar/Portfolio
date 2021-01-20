@@ -1,8 +1,8 @@
 import React from 'react';
-import ExperienceCard from '../ExperienceCard';
+import ExperienceCard from '../../ExperienceCard';
 
 const RalphLauren = () => {
-    const url = require("../../Visuals/RL-logo.png");
+    const url = require("../../../Visuals/RL-logo.png");
     const company = 'Ralph Lauren';
     const position = 'Global Manufacture & Sourcing: Lauren Woven Production Intern';
     const dates = 'Jun 2015 - Aug 2015'

@@ -1,5 +1,5 @@
 import React from 'react';
-import ExperienceCard from '../ExperienceCard';
+import ExperienceCard from '../../ExperienceCard';
 
 const BCBG = () => {
     const url = 'https://baldwineyeclinic.com/wp-content/uploads/2016/08/bcbg-maxazria-logo.png';

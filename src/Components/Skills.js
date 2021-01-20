@@ -5,9 +5,9 @@ const Skills = () => {
         <div>
             <h3>Skills</h3>
             <div>
-                <b>Languages:</b> JavaScript, Ruby, HTML5, CSS <br/>
-                <b>Frameworks:</b> Ruby on Rails<br/>
-                <b>Libraries:</b> React.Js, Fabric.js<br/>
+                <b>Languages:</b> JavaScript, Ruby, Python, HTML5, CSS <br/>
+                <b>Frameworks:</b> Odoo, Ruby on Rails<br/>
+                <b>Libraries:</b> React.js, Redux, Fabric.js<br/>
                 <b>Databases:</b> SQL, PostgreSQL<br/>
                 <b>Authorization:</b> Bcrypt<br/>
                 <b>CI/CD:</b> Git, Heroku, Netlify<br/>

@@ -1,8 +1,8 @@
 import React from 'react';
-import ExperienceCard from '../ExperienceCard';
+import ExperienceCard from '../../ExperienceCard';
 
 const MichaelKors = () => {
-    const url = require("../../Visuals/mk.png");
+    const url = require("../../../Visuals/mk.png");
     const company = 'Michael Kors';
     const position = 'Sales Assistant';
     const dates = 'Nov 2014 - Sep 2015'

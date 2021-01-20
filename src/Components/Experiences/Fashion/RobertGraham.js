@@ -1,5 +1,5 @@
 import React from 'react';
-import ExperienceCard from '../ExperienceCard';
+import ExperienceCard from '../../ExperienceCard';
 
 const RobertGraham = () => {
     const url = 'https://assets.simon.com/tenantlogos/22360.png';

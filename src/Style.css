@@ -11,7 +11,6 @@
 #projects{
     min-height: 80vh;
     background-color: rgb(252, 217, 223)
-
 }
 
 #resume{
@@ -168,7 +167,7 @@ h5{
 
 
 .description{
-    margin-top: 8%;
+    margin-top: 5vh;
 }
 
  /* ******************************* Projects ******************************* */
@@ -222,6 +221,14 @@ h5{
     height: 4.5vh;
     margin-bottom: 3%;
     object-fit: cover;
+}
+
+.toggle-title{
+    color: rgb(240, 114, 135);
+}
+
+.toggle-title:hover{
+    cursor: pointer;
 }
 
  /* ******************************* Connect ******************************* */
