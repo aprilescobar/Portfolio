@@ -10,10 +10,6 @@ const Teder = () => {
     const description = () => (
         <ul>
             <li>Coming soon :)</li>
-            {/* <li>Increased sales profits through strong customer loyalty by building and maintaining stable clientele relationships</li>
-            <li>Elevated clientele experience through eminent teamwork, leading by example, and preserving the brand’s image</li>        
-            <li>Implemented effective POS etiquette and product knowledge training procedures that maintained low LP numbers</li>     
-            <li>Awarded -  Best Customer Loyalty Advocate and Sold Most Gift Card</li>    */}
         </ul>
     )
 
