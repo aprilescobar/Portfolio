@@ -9,7 +9,7 @@ const Resume = () => {
             <div data-aos="fade-up" className="container">
                 <div className="title">
                     <h2>
-                      <a href="https://drive.google.com/file/d/1oWzTRllwf3BEWLGTi9HLjdOZgwV0jUyK/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img className="pdf" src="https://cdn.worldvectorlogo.com/logos/adobe-pdf-icon.svg" alt="pdf"/></a>{'  '}Resume
+                      <a href="https://drive.google.com/file/d/1uOzsQYMQDBzfS3Y6uWxaRTziyl-zkH59/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img className="pdf" src="https://cdn.worldvectorlogo.com/logos/adobe-pdf-icon.svg" alt="pdf"/></a>{'  '}Resume
                     </h2>
                 </div>
                 <div className="row">

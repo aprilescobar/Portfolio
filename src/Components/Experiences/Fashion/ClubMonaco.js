@@ -5,7 +5,7 @@ const ClubMonaco = () => {
     const url = 'https://assets.simon.com/tenantlogos/1198.png';
     const company = 'Club Monaco';
     const position = 'Keyholder';
-    const dates = 'Sept 2015 - Dec 2016'
+    const dates = 'Sep 2015 - Dec 2016'
 
     const description = () => (
         <ul>
