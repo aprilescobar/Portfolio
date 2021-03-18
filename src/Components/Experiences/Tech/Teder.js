@@ -2,14 +2,16 @@ import React from 'react';
 import ExperienceCard from '../../ExperienceCard';
 
 const Teder = () => {
-    const url = 'https://onteder.com/images/logo.svg';
-    const company = 'Teder';
+    const url = 'https://onteder.com/static/media/logo.c520870a.svg';
+    const company = 'Toledano Group LLC';
     const position = 'Frontend Developer';
-    const dates = 'Sept 2020 - Present'
+    const dates = 'Sep 2020 - Present'
 
     const description = () => (
         <ul>
-            <li>Coming soon :)</li>
+            <li>Complete ownership of the frontend development in two interactive web and mobile-responsive applications</li>
+            <li>Execute and preserve high-quality coding standards for an elegant user experience, site stability and maintainability</li>
+            <li>Effectively communicate with cross-functional teams to collaborate in prioritization, troubleshooting and delegation</li>
         </ul>
     )
 
