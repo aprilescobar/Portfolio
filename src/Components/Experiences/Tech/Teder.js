@@ -2,8 +2,8 @@ import React from 'react';
 import ExperienceCard from '../../ExperienceCard';
 
 const Teder = () => {
-    const url = 'https://onteder.com/static/media/logo.c520870a.svg';
-    const company = 'Toledano Group LLC';
+    const url = require("../../../Visuals/teder-logo.png");
+    const company = 'Teder';
     const position = 'Frontend Developer';
     const dates = 'Sep 2020 - Present'
 

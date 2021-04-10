@@ -13,7 +13,7 @@ const ProjectCard = (props) => {
                     <div className="col">
                         <h5>{props.position}</h5>
                     </div>
-                    <div className="col date">
+                    <div className="col date text-right">
                         <p>{props.dates}</p>
                     </div>
                 </div>
