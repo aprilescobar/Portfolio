@@ -21,7 +21,7 @@ const Education = () => {
                         Aug 2012 - Dec 2016 <br/><br/>
                         <b>Bachelors in Applied Science: Production Management & Fashion Design</b><br/>
                        <small> Departmental Honor: C. Contreri & W. Sloves Award, Selected in the Fall 2014 AAS Motown Exhibition,
-                       Bachelor's Degree Honor: Cum Laude, Associate's Degree Honor: Magna Cum Laude
+                       Bachelor's Degree Honor: Cum Laude, Associate's Degree Honor: Magna Cum Laude, 3.63 GPA
                        </small>
                     </p>
                 </div>

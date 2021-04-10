@@ -2,7 +2,7 @@ import React from 'react';
 import ExperienceCard from '../../ExperienceCard';
 
 const PrintedMint = () => {
-    const url = 'https://app.printedmint.com/web/image/website/1/logo/Printed%20Mint?unique=91ec085';
+    const url = require("../../../Visuals/PM-logo.png");
     const company = 'Printed Mint';
     const position = 'Junior Software Engineer';
     const dates = 'Sep 2020 - Jan 2021'
